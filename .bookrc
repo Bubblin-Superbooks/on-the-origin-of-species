@@ -1,0 +1,22 @@
+{
+  "name": "Origin of Species",
+  "type": "novel",
+  "has_page_numbers": true,
+  "mode": {
+    "HTML": "html",
+    "CSS": "css",
+    "JS": "js",
+    "HEAD": "html"
+  },
+  "cover": {
+    "punchline": "By Means of Natural Selection",
+    "toc": "",
+    "author_detail": "",
+    "colophon": "",
+    "synopsis": ""
+  },
+  "status": "published",
+  "asset_url": "https://raw.githubusercontent.com/marvindanig/on-the-origin-of-species/master/assets",
+  "book_id": 962,
+  "book_url": "https://bubblin.io/book/origin-of-species-by-charles-darwin-charlesdarwin"
+}
